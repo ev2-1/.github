@@ -2,4 +2,4 @@
 
 Anyone remember ev2c?
 
-no? - though so
+no? - thought so
